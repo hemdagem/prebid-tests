@@ -1,0 +1,16 @@
+{
+  "name": "prebid-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "prebid.js": "^8.17.0"
+  }
+}
